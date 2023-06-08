@@ -1,0 +1,21 @@
+# ninja log v5
+0	59	7079411268494062	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	c8663f8b20dee79c
+0	59	7079411268494062	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	c8663f8b20dee79c
+60	4203	7079411309956579	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	d018105a68b3e7be
+60	4203	7079411309956579	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	d018105a68b3e7be
+4203	4257	7079411310496697	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	beca30e8a8498f31
+4203	4257	7079411310496697	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	beca30e8a8498f31
+4257	4305	7079411310976807	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	a135ab32284a3846
+4257	4305	7079411310976807	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	a135ab32284a3846
+4305	4357	7079411311486922	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	54fa94b472aa392c
+4305	4357	7079411311486922	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	54fa94b472aa392c
+4357	4417	7079411312057046	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	a8ed99bf0852d0f4
+4357	4417	7079411312057046	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	a8ed99bf0852d0f4
+4418	4476	7079411312687192	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	478d4d7f97efa999
+4418	4476	7079411312687192	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	478d4d7f97efa999
+4476	4531	7079411313227311	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	3a85e140d7fe8348
+4476	4531	7079411313227311	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	3a85e140d7fe8348
+4531	4600	7079411313927471	CMakeFiles/raylib-populate-complete	80bef3239adaf34f
+4531	4600	7079411313927471	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	80bef3239adaf34f
+4531	4600	7079411313927471	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	80bef3239adaf34f
+4531	4600	7079411313927471	C:/Users/pat/CLionProjects/projekt/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	80bef3239adaf34f
